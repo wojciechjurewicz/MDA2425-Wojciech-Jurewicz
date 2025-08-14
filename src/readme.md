@@ -1,0 +1,1 @@
+This is a catalog for shared functions. Code here should not rely on one-students needs, but be suited to needs of many.
